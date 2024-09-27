@@ -1,1 +1,1 @@
-console.log('Hello Prime!');
+console.log('Hello World!');
